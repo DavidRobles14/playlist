@@ -8,7 +8,7 @@
 ### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/playlist
 - [x] Fork this repository to your github account and clone it to a new workspace
-- [ ] Add, commit, and push your changes
+- [x] Add, commit, and push your changes
 - [x] Make your site live on gh-pages
 
 ### JS
@@ -18,15 +18,15 @@
 - [x] Customize your CSS or add another column
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 2
 ### JS
-- [ ] Add a forEach loop in the displaySongInfo function to display the data from each of your arrays in the correct div
-- [ ] Update the code to correctly append HTML Elements (img, p, a tags) using jQuery
-- [ ] Use jQuery to complete the body of the emptySongInfo function
+- [x] Add a forEach loop in the displaySongInfo function to display the data from each of your arrays in the correct div
+- [x] Update the code to correctly append HTML Elements (img, p, a tags) using jQuery
+- [x] Use jQuery to complete the body of the emptySongInfo function
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 
 ## Day 3
