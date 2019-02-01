@@ -51,11 +51,6 @@ function emptySongInfo(){
 function addSongInfo(){
     // BELOW write the code to add new items to each of the arrays.
     
-    // $("#songs").append("<p>" + $("#song").val() + "</p>");
-    // $("#images").append("<img src='" + $("#image").val() + "'>");
-    // $("#artists").append("<p>" + $("#artist").val() + "</p>");
-    // $("#lengths").append("<p>" + $("#length").val() + "</p>");
-    // $("#links").append("<a href='" + $("#link").val() + "'>Listen</a>");
     var nSong = $("#song").val();
     var nImage = $("#image").val();
     var nArtist = $("#artist").val();
